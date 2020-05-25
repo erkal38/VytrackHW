@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e82ead1-66df-4103-8c2f-74054d05c1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VyTrackTest1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/day25_mayHomework/PageSubtitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/WebDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/pages/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/pages/CalendarEventsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/day25_mayHomework/PageSubtitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/BrowserUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/BrowserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/ConfigurationReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/WebDriverFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525010033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525012454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525013753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525022541.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525023221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525031029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525031146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525031318.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pageSubtitleTest20200525125621.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-    </list>
+    <list default="true" id="3e82ead1-66df-4103-8c2f-74054d05c1f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
